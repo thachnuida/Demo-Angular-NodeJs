@@ -1,0 +1,6 @@
+.messages {
+    height: 400px;
+    overflow: auto;
+
+    p:nth-child(even) {background: #CCC}
+}

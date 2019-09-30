@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "content": "This is content 1",
+      "id": "zvFWLYKK"
+    },
+    {
+      "title": "Post 2",
+      "content": "This is content 2",
+      "id": "Nujze2FP"
+    },
+    {
+      "coverUrl": "https://miro.medium.com/max/3492/1*P7x-_0XfQz6CVmMY_QAv0w.png",
+      "title": "Angular",
+      "content": "this is angular content",
+      "id": "gqg208Mq"
+    }
+  ]
+}

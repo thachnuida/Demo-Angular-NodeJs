@@ -1,0 +1,7 @@
+<div class="messages border">
+    <p *ngFor="let msg of listMessage" class="pl-1">{{msg}}</p>
+</div>
+<div class="inputs" class="d-flex">
+    <input type="text" class="form-control" [(ngModel)]="message" name="message" placeholder="Enter message" (keydown.enter)="send()"/>
+    <button class="btn btn-primary" (click)="send()">Send</button>
+</div>
