@@ -14,3 +14,9 @@ cd client
 npm i
 npm start
 ```
+
+## Open demo
+
+```
+http://localhost:4200
+```
